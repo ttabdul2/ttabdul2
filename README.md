@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 **Ibraheem Olayanju** is a ✨ _Data Engineer_ ✨ with a special knack for sharing information and helping people get hold of new technology.
 
 Here are some ideas to get you started:
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: olayanjuibraheem1@gmail.com...
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: I enjoy Taekwondo like I am drinking water...
--->
